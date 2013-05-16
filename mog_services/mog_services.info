@@ -1,0 +1,5 @@
+name = MOG Services
+description = Module used for demonstration of services.
+core = 7.x
+
+dependencies[] = services
